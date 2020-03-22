@@ -4,21 +4,21 @@ CS 6314 - Web Programming Languages - Final Project
 
 Each project should include following major functionalities:
 
-	User signup: Register a new user to the system. 
-o	Check the new username or email address if it’s already registered to the system using AJAX. 
-o	Form validation: Check if all mandatory fields are filled out. (JQuery)
-o	Check if password is strong enough. Define the rules of having a strong password. (JQuery). User passwords should be hashed and hashed version of passwords should be stored in the database.
-	User login
-	List available products/services in the system. User should be able to filter the results based on at least one criterion (i.e. category). Also, should be able to “Search” for a specific item.  Search and filtering should be integrated together.
-	You will have paging functionality for listing products/services.
-	Add item(s) to the cart and checkout. For the online shopping sites, pricing will be included but payment functionality doesn’t need to be implemented. However, you will keep track of inventory. For websites where a shopping cart does not exist, you can implement Wish list or Favorites and save those listings.
-	User should be able to update items in the cart (remove items from the cart, update their quantity) or favorites list.
-	Show the history of purchases or saved lists for the user.
-	For Admin user(s):
-o	List all items
-o	Add new item
-o	Delete item
-o	Update item
+	User signup: Register a new user to the system. 
+	Check the new username or email address if it’s already registered to the system using AJAX. 
+	Form validation: Check if all mandatory fields are filled out. (JQuery)
+	Check if password is strong enough. Define the rules of having a strong password. (JQuery). User passwords should be hashed and hashed version of passwords should be stored in the database.
+	User login
+	List available products/services in the system. User should be able to filter the results based on at least one criterion (i.e. category). Also, should be able to “Search” for a specific item.  Search and filtering should be integrated together.
+	You will have paging functionality for listing products/services.
+	Add item(s) to the cart and checkout. For the online shopping sites, pricing will be included but payment functionality doesn’t need to be implemented. However, you will keep track of inventory. For websites where a shopping cart does not exist, you can implement Wish list or Favorites and save those listings.
+	User should be able to update items in the cart (remove items from the cart, update their quantity) or favorites list.
+	Show the history of purchases or saved lists for the user.
+	For Admin user(s):
+	List all items
+	Add new item
+	Delete item
+	Update item
 
 Admin user will have the same interface with regular users, except that he/she will be provided extra features (buttons/links) for update and deletion of products/services.
 
@@ -33,3 +33,8 @@ You can use Bootstrap and Bootstrap templates for user interface design. You can
 Back-end design
 You can use relational databases or MongoDB for database component. In case a relational database system is used, tables should be normalized to Third Normal Form.
 For server side scripting, you can use PHP or Node.JS. You are also allowed to use PHP frameworks such as Laravel, CodeIgniter, CakePHP, etc. 
+
+
+
+
+zip file need to unzip first
